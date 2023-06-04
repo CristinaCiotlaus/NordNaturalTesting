@@ -1,0 +1,89 @@
+# Test Plan: NordNatural Online Store
+
+## Introduction
+The purpose of this test plan is to provide an overview of the testing strategy for the NordNatural online store (www.nordnatural.ro). 
+This document outlines the scope, approach, methodologies, and resources required for conducting manual testing.
+
+## Testing Objectives
+- Verify the functionality and usability of the NordNatural online store.
+- Identify any defects, inconsistencies, or issues in the system.
+- Ensure a smooth and reliable user experience for customers.
+- Validate the compliance of the online store with the specified functional requirements.
+
+## Testing Scope
+The testing scope encompasses the key features and functionalities of the NordNatural online store. It includes but is not limited to:
+- User registration and authentication
+- Product browsing and search
+- Shopping cart management
+- Checkout process
+- Order management
+- Inventory management (admin)
+- Reporting and analytics (admin)
+- User account management
+
+## Testing Approach
+The testing approach will primarily focus on manual testing techniques to simulate real user interactions and scenarios. The test team will execute predefined test cases and perform exploratory testing to identify any potential issues or unexpected behavior.
+
+## Testing Methodologies
+The following testing methodologies will be utilized:
+1. Functional Testing: Verify that each feature and functionality of the online store is working as expected.
+2. Usability Testing: Evaluate the user-friendliness, intuitiveness, and overall user experience of the online store.
+3. Compatibility Testing: Ensure the compatibility of the online store with different web browsers, operating systems, and devices.
+4. Security Testing: Assess the security measures implemented in the online store to protect user data and prevent unauthorized access.
+5. Performance Testing: Measure and evaluate the performance and responsiveness of the online store under various load conditions.
+6. Regression Testing: Validate that existing features and functionalities are not adversely affected by any new changes or updates.
+
+## Test Environment
+The testing will be conducted in the following environment:
+- Web browsers: Chrome, Firefox, Safari, Edge
+- Operating systems: Windows, macOS, Linux, iOS, Android
+- Devices: Desktop computers, laptops, tablets, smartphones
+
+## Resources Required
+- Tester: Responsible for executing test cases, documenting test results, and reporting any issues found.
+- Developer: Collaborates with the tester to provide necessary support, address bug reports, and verify bug fixes.
+- Manager: Oversees the testing process, provides guidance, and ensures the timely completion of testing activities.
+
+## Test Schedule
+The testing activities will be carried out according to the following schedule:
+
+1. Test Planning: [Manager]
+   - Define the testing objectives, scope, and approach.
+   - Identify the required resources and assign responsibilities.
+   - Create and review the test plan document.
+
+2. Test Case Preparation: [Tester]
+   - Review the functional requirements and user stories.
+   - Develop detailed test cases to cover different scenarios.
+   - Prioritize test cases based on their importance and impact.
+
+3. Test Execution: [Tester]
+   - Execute the test cases as per the defined test plan.
+   - Document the test results, including pass/fail status and any defects found.
+   - Report any issues or inconsistencies to the development team.
+
+4. Bug Fixing and Retesting: [Developer]
+   - Analyze reported issues and prioritize bug fixing efforts.
+   - Develop and implement fixes for identified defects.
+   - Collaborate with the tester to validate the bug fixes through retesting.
+
+5. Test Closure: [Manager]
+   - Review the overall testing process and results.
+   - Prepare the test summary report, including key findings and recommendations.
+   - Obtain the necessary approvals for the completion of the testing phase.
+
+## Risks and Assumptions
+- Risk: Potential delays in bug fixing and retesting may impact the overall testing schedule.
+  Mitigation: Maintain open communication between the tester and developer to address and resolve issues promptly.
+
+- Assumption: The online store will be accessible and available for testing throughout the testing phase.
+  Mitigation: Coordinate with the development team to ensure the availability of the test environment during the designated testing periods.
+
+- Risk: The online store may have dependencies on external services or APIs that could affect the testing process.
+  Mitigation: Identify and document any dependencies, and establish contingency plans in case of issues or limitations with external services.
+
+## Conclusion
+This test plan provides a comprehensive overview of the testing strategy for the NordNatural online store. 
+By following the defined approach and executing the identified test cases, the testing team aims to validate the functionality, 
+usability, and compliance of the online store. 
+Regular communication and collaboration among the tester, developer, and manager will be crucial for successful testing and bug resolution.
