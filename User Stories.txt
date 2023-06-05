@@ -1,0 +1,58 @@
+ 1. User Registration and Authentication:
+      As a new user, I want to register for an account so that I can access the website's features.
+        As a registered user, I want to log in with my credentials to access my account.
+        As a forgetful user, I want to reset my password if I forget it, so that I can regain access to my account.
+
+ 2. Product Catalog:
+        As a shopper, I want to browse the product catalog by categories and subcategories, so that I can find products easily.
+        As a shopper, I want to search for specific products using keywords, so that I can quickly find what I'm looking for.
+        As a shopper, I want to apply filters (e.g., price range, category) to narrow down my product search, so that I can find products that meet my criteria.
+        As a shopper, I want to view detailed information about a product, including its title, description, price, and image, so that I can make an informed purchasing decision.
+
+ 3. Shopping Cart:
+        As a shopper, I want to add products to my shopping cart, so that I can collect items for purchase.
+        As a shopper, I want to view the contents of my shopping cart, so that I can review and manage the selected products.
+        As a shopper, I want to update the quantity of products in my shopping cart, so that I can adjust my purchase quantities.
+        As a shopper, I want to remove products from my shopping cart, so that I can remove unwanted items before checkout.
+
+  4. Checkout Process:
+        As a shopper, I want to enter my shipping and billing information during the checkout process, so that I can provide the necessary details for order fulfillment.
+        As a shopper, I want to select a preferred payment method during checkout, so that I can complete the purchase using my preferred option.
+        As a shopper, I want to review my order summary before finalizing the purchase, so that I can ensure all details are correct.
+        As a shopper, I want to receive an order confirmation after completing the purchase, so that I have a record of my transaction.
+
+  5. User Account Management:
+        As a registered user, I want to update my personal information (e.g., name, address) in my account settings, so that my details are accurate.
+        As a registered user, I want to view my order history in my account, so that I can track my previous purchases.
+        As a registered user, I want to track the status of my orders in my account, so that I can stay informed about their progress.
+
+  6. Customer Support:
+        As a user, I want to contact customer support through a designated channel (e.g., contact form, live chat), so that I can seek assistance or ask questions.
+        As a user, I want to receive timely responses from customer support for my inquiries, so that I can have my concerns addressed promptly.
+        As a user, I want to access a comprehensive FAQ section, so that I can find answers to common questions without contacting customer support.
+
+  7. Promotions and Discounts:
+        As a shopper, I want to apply discount codes during the checkout process, so that I can avail discounts on my purchases.
+        As a shopper, I want to see the updated order total after applying discounts, so that I can review the discounted amount before finalizing the purchase.
+
+  8. Wishlist:
+        As a shopper, I want to add products to my wishlist, so that I can save them for future reference or potential purchase.
+        As a shopper, I want to view and manage my wishlist, so that I can add or remove products as needed.
+
+  9. Product Reviews and Ratings:
+        As a shopper, I want to write reviews for products, so that I can share my experience and opinions.
+        As a shopper, I want to rate products based on my experience, so that I can provide feedback to other users.
+        As a shopper, I want to view reviews and ratings submitted by other users, so that I can make informed decisions based on their feedback.
+
+ 10. Order Management (Admin):
+        As an admin user, I want to manage and fulfill orders, so that I can ensure efficient order processing and delivery.
+        As an admin user, I want to update order statuses and provide tracking information, so that customers can track their orders accurately.
+        As an admin user, I want to view and manage customer information associated with orders, so that I can address any issues or provide support.
+
+ 11.  Inventory Management (Admin):
+        As an admin user, I want to manage product inventory, so that I can ensure accurate availability and stock levels.
+        As an admin user, I want to update product quantities and availability, so that the website reflects the correct stock information.
+
+  12.Reporting and Analytics (Admin):
+        As an admin user, I want to access sales reports and analytics, so that I can track performance and make data-driven decisions.
+        As an admin user, I want to generate reports based on various parameters, such as sales by product, category, or timeframe, so that I can analyze specific aspects of the business.
