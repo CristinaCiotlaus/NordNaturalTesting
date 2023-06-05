@@ -6,7 +6,7 @@
  2. Product Catalog:
         As a shopper, I want to browse the product catalog by categories and subcategories, so that I can find products easily.
         As a shopper, I want to search for specific products using keywords, so that I can quickly find what I'm looking for.
-        As a shopper, I want to apply filters (e.g., price range, category) to narrow down my product search, so that I can find products that meet my criteria.
+        As a shopper, I want to apply filters (e.g., producer, category) to narrow down my product search, so that I can find products that meet my criteria.
         As a shopper, I want to view detailed information about a product, including its title, description, price, and image, so that I can make an informed purchasing decision.
 
  3. Shopping Cart:
